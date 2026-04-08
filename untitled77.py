@@ -33,7 +33,7 @@ Created on Wed Apr  8 23:57:26 2026
         <h3>個人愛好</h3>
         <ul>
             <li>現代舞、泰語學習、BLACKPINK (Jisoo)。</li>
-            <li>《傳說對決》前全服前十名。</li>
+            <li>《傳說對決》前全服前十名 。</li>
         </ul>
     </div>
 </body>
